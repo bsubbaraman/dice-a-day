@@ -1,0 +1,3 @@
+[submodule "p5.dicer"]
+	path = p5.dicer
+	url = https://github.com/machineagency/p5.dicer.git
